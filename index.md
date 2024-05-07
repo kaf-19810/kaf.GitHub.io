@@ -28,16 +28,16 @@
 ### 编辑器
 > （下载链接 适用环境 基本使用（如打字机模式 专注模式等） 特殊说明）
 
-- typora
-- marktext
-- vscode
-- sublime text
+- [typora](https://kaf-19810.github.io/kaf.GitHub.io/typora)
+- [marktext](https://kaf-19810.github.io/kaf.GitHub.io/marktext)
+- [vscode](https://kaf-19810.github.io/kaf.GitHub.io/vscode)
+- [sublime text](https://kaf-19810.github.io/kaf.GitHub.io/sublime)
 - markdownX（备注：特意找的android端编辑器 但目前不大确定是否有必要）
 
 ### 工具
 > (使用途径 使用说明）
 
-- marp
-- pandoc
-- markdown here
+- [marp](https://kaf-19810.github.io/kaf.GitHub.io/marp)
+- [pandoc](https://kaf-19810.github.io/kaf.GitHub.io/pandoc)
+- [markdown here](https://kaf-19810.github.io/kaf.GitHub.io/markdownhere)
 - 
