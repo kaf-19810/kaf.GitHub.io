@@ -22,7 +22,7 @@
 - [表格 代码块 数学公式](https://kaf-19810.github.io/kaf.GitHub.io/语法篇2)
 - [图片 超链接 脚注](https://kaf-19810.github.io/kaf.GitHub.io/语法篇3)
 - [‘’[TOC]'' 一些html标签（颜色字体字号等](https://kaf-19810.github.io/kaf.GitHub.io/特殊)
-- mermaid（这个在考虑是否需要放入“工具”部分）
+- [mermaid](https://kaf-19810.github.io/kaf.GitHub.io/mermaid)（这个在考虑是否需要放入“工具”部分）
   
 
 ### 编辑器
