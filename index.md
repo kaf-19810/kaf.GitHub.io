@@ -32,9 +32,12 @@
 - marktext
 - vscode
 - sublime text
-- 
+- markdownX（备注：特意找的andriod端编辑器 但目前不大确定是否有必要）
 
 ### 工具
 > (使用途径 使用说明）
 
-121
+- marp
+- pandoc
+- markdown here
+- 
