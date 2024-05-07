@@ -19,9 +19,9 @@
 ### 语法
 
 - [标题 列表 批注 加粗 斜体 下划线等](https://kaf-19810.github.io/kaf.GitHub.io/语法篇1)
-- 表格 代码块 数学公式
-- 图片 超链接 脚注
-- ‘’[TOC]'' 一些html标签（颜色字体字号等）
+- [表格 代码块 数学公式](https://kaf-19810.github.io/kaf.GitHub.io/语法篇2)
+- [图片 超链接 脚注](https://kaf-19810.github.io/kaf.GitHub.io/语法篇3)
+- [‘’[TOC]'' 一些html标签（颜色字体字号等](https://kaf-19810.github.io/kaf.GitHub.io/特殊)
 - mermaid（这个在考虑是否需要放入“工具”部分）
   
 
