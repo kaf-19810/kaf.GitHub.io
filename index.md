@@ -14,7 +14,7 @@
 ## 使用说明
 
 ### yaml front matter
-- 介绍大体内容即可
+- [介绍大体内容即可](https://kaf-19810.github.io/kaf.GitHub.io/yaml%20front%20matter)
 
 ### 语法
 
