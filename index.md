@@ -18,7 +18,7 @@
 
 ### 语法
 
-- 标题 列表 批注 加粗 斜体 下划线等
+- [标题 列表 批注 加粗 斜体 下划线等](https://kaf-19810.github.io/kaf.GitHub.io/语法篇1)
 - 表格 代码块 数学公式
 - 图片 超链接 脚注
 - ‘’[TOC]'' 一些html标签（颜色字体字号等）
@@ -32,7 +32,7 @@
 - marktext
 - vscode
 - sublime text
-- markdownX（备注：特意找的andriod端编辑器 但目前不大确定是否有必要）
+- markdownX（备注：特意找的android端编辑器 但目前不大确定是否有必要）
 
 ### 工具
 > (使用途径 使用说明）
